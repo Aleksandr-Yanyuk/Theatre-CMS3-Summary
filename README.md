@@ -17,10 +17,10 @@
 
 
 
-<a href="default.asp"><img src="" alt="" style="width:42px;height:42px;"></a>
+
    
    
-   <img src="https://github.com/Alex745i/TheatreCMS3/blob/main/Screenshot_20230120_084155.png" style="width:50px;height:50px;">
+   <img src="https://github.com/Alex745i/TheatreCMS3/blob/main/Screenshot_20230120_084155.png" style="width:500px;height:500px;">
 </body>
    
 
