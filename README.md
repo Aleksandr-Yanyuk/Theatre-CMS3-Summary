@@ -20,7 +20,7 @@
 
    
    
-   <img src="https://github.com/Alex745i/TheatreCMS3/blob/main/Screenshot_20230120_084155.png" style="width:500px;height:500px;">
+
 </body>
    
 
