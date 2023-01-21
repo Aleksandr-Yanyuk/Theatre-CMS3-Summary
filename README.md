@@ -10,10 +10,24 @@
      
 <h2>Created Entity Model For Calendar Event And CRUD Pages</h2>
    &nbsp;&nbsp;&nbsp;&nbsp; For this area of the web application I was tasked with several stories that included utilizing entity framework for the model scaffolding and CRUD functionality and styling based on the color scheme defined within the project. I also developed a way for Calendar Events to be added to the database in the index page. I used CSS to style the Create and Edit pages of the web application.
+   
+   
+   <img width="945" alt="Screenshot_20230120_084257" src="https://user-images.githubusercontent.com/118482231/213844537-8cc863d8-d69d-4ea0-8624-8445e45afd4e.png">
+
+   
+   
+   
+   
+   <img width="947" alt="Screenshot_20230120_084352" src="https://user-images.githubusercontent.com/118482231/213844541-db8f246d-7fe2-4a6f-a47e-f304ac6b7adf.png">
+
+   
+   
 
   <h2>Styling The Contact Page</h2>
    &nbsp;&nbsp;&nbsp;&nbsp;For this story I was assigned the task of designing the Contact page for the Theater Vertigo web application. I utilized Bootstrap and CSS to create the content and styling of the Contact page utilizing a specific color scheme defined within the project. I created a contact form for the user to input their contact information. Along with the Contact form I created buttons for the user to be click on and they are directed to the Donate and Volunteerpages of the web application.
 
+
+<img width="945" alt="Screenshot_20230120_084155" src="https://user-images.githubusercontent.com/118482231/213844505-235fdd91-0e29-4ac7-aff7-025df1c3e58a.png">
 
 
 
