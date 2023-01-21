@@ -4,7 +4,7 @@
 <body>
   
  <h1>Theatre Vertigo<h/1> 
-<h2>Internship Live Projects</h2>
+<h2>Internship-Live Project</h2>
  &nbsp;&nbsp;&nbsp;&nbsp;I was a part of a two week long live project where we had sprint/stand up/retrospective meetings Monday-Friday. In this team project I created a contact page for the Theatres Website and I also created the MVC for the calendar events. I am very passionate about how the final project looks like, so I made sure to make these as user friendly and aesthetically pleasing as I could within the time frame.
      
      
