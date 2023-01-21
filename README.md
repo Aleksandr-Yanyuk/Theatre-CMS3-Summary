@@ -14,6 +14,10 @@
   <h2>Styling The Contact Page</h2>
    &nbsp;&nbsp;&nbsp;&nbsp;For this story I was assigned the task of designing the Contact page for the Theater Vertigo web application. I utilized Bootstrap and CSS to create the content and styling of the Contact page utilizing a specific color scheme defined within the project. I created a contact form for the user to input their contact information. Along with the Contact form I created buttons for the user to be click on and they are directed to the Donate and Volunteerpages of the web application.
 
+
+
+
+<a href="default.asp"><img src="https://github.com/Alex745i/TheatreCMS3/blob/main/Screenshot_20230120_084155.png" alt="" style="width:42px;height:42px;"></a>
 </body>
    
 
