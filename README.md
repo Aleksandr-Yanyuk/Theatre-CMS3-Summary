@@ -30,6 +30,13 @@
 
 <img width="945" alt="Screenshot_20230120_084155" src="https://user-images.githubusercontent.com/118482231/213844505-235fdd91-0e29-4ac7-aff7-025df1c3e58a.png">
 
+   
+   
+   
+  <h2>Styling The Calendar Event Index Page</h2>
+   &nbsp;&nbsp;&nbsp;&nbsp;For this story I was assigned the task of designing the calendar Event Index Page for the Theater Vertigo web application. I utilized Bootstrap and CSS to create the content and styling of the Calendar Event Index Page, utilizing a specific color scheme defined within the project. I created a index form for the user to input movie information, along with the Index form I put in logic for how many days are left for a movie to be seen, and changed all of the DateTime formats using razor syntax in the cshtml index views for it to be displayed properly.
+   
+   
 
 <img width="948" alt="Screenshot_20230126_124659" src="https://user-images.githubusercontent.com/118482231/214947730-45c4a4ff-306a-4f6c-bb1a-55b1ae6fb649.png">
 
