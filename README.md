@@ -32,7 +32,8 @@
 
 <img width="945" alt="Screenshot_20230120_084155" src="https://user-images.githubusercontent.com/118482231/213844505-235fdd91-0e29-4ac7-aff7-025df1c3e58a.png">
 
-   
+   ![Screenshot 2023-01-28 010438](https://user-images.githubusercontent.com/118482231/215257438-3e973414-7430-48f7-9ad4-00ecc55d05ec.png)
+
    
    
   <h2>Styling The Calendar Event Index Page</h2>
