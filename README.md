@@ -14,14 +14,16 @@
    
    <img width="945" alt="Screenshot_20230120_084257" src="https://user-images.githubusercontent.com/118482231/213844537-8cc863d8-d69d-4ea0-8624-8445e45afd4e.png">
 
-   
+   ![Screenshot 2023-01-28 005833](https://user-images.githubusercontent.com/118482231/215257243-05045322-c3df-4264-a4ad-f8855369d361.png)
+
    
    
    
 <img width="945" alt="Screenshot_20230120_092830" src="https://user-images.githubusercontent.com/118482231/213845181-e03e4cd9-3c95-45d5-9ff1-3844a7638324.png">
 
 
-   
+   ![Screenshot 2023-01-28 005759](https://user-images.githubusercontent.com/118482231/215257247-c4e47a0f-820b-46cd-a5fb-d8b962baf274.png)
+
    
 
   <h2>Styling The Contact Page</h2>
@@ -41,7 +43,8 @@
 <img width="948" alt="Screenshot_20230126_124659" src="https://user-images.githubusercontent.com/118482231/214947730-45c4a4ff-306a-4f6c-bb1a-55b1ae6fb649.png">
 
 
-   
+   ![Screenshot 2023-01-28 005727](https://user-images.githubusercontent.com/118482231/215257203-5a2566ef-a5fe-4eab-a190-ae96aac11a73.png)
+
    
 
 </body>
